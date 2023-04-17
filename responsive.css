@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    section:not(.welcome){height: auto; padding:20px;}
+    section .inner{width: 100%;}
+
+    .heading{margin: auto; padding: 0;}
+    .heading h1{font-size: 1.5em; line-height: 1.2em;}
+    .heading img{width: 150px; height: 150px; margin-top: 0;}
+    .heading p{font-size: 1em; line-height: .8em;}
+
+    .gnb{text-align: center; width: 100%;}
+    .gnb a{font-size: 2em; z-index: 9999;}
+}
